@@ -55,6 +55,9 @@ def cmp(fsInfoOld, fsInfoNew):
     """
     errs = []
 # Student work {{
+    print('DEBUG' + 'fsInfosOld', (fsInfosOld))
+    print('second file')
+    print('DEBUG' + 'fsInfosOld', (fsInfosNew))
 
   
 # Student work }}
