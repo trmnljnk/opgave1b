@@ -57,7 +57,7 @@ def cmp(fsInfoOld, fsInfoNew):
 # Student work {{
     print('DEBUG' + 'fsInfosOld', (fsInfosOld))
     print('second file')
-    print('DEBUG' + 'fsInfosOld', (fsInfosNew))
+    print('DEBUG' + 'fsInfosNew', (fsInfosNew))
 
   
 # Student work }}
