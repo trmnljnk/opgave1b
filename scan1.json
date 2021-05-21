@@ -1,0 +1,82 @@
+[
+    {
+        "fname": "dir",
+        "dname": "",
+        "mode": 16877,
+        "mtime": 1621265786.0016727,
+        "ino": 60,
+        "uid": 501,
+        "gid": 20,
+        "size": 224
+    },
+    {
+        "fname": "file3",
+        "dname": "dir",
+        "mode": 33256,
+        "mtime": 1621265786.0017018,
+        "ino": 67,
+        "uid": 501,
+        "gid": 20,
+        "size": 25
+    },
+    {
+        "fname": "file2",
+        "dname": "dir",
+        "mode": 33056,
+        "mtime": 1621265786.0016167,
+        "ino": 66,
+        "uid": 501,
+        "gid": 20,
+        "size": 8
+    },
+    {
+        "fname": "dir2",
+        "dname": "dir",
+        "mode": 16713,
+        "mtime": 1621265786.0013978,
+        "ino": 63,
+        "uid": 501,
+        "gid": 20,
+        "size": 96
+    },
+    {
+        "fname": "file21",
+        "dname": "dir/dir2",
+        "mode": 33188,
+        "mtime": 1621265786.0014374,
+        "ino": 64,
+        "uid": 501,
+        "gid": 20,
+        "size": 6
+    },
+    {
+        "fname": "file1",
+        "dname": "dir",
+        "mode": 33188,
+        "mtime": 1621265786.0015268,
+        "ino": 65,
+        "uid": 501,
+        "gid": 20,
+        "size": 5
+    },
+    {
+        "fname": "dir1",
+        "dname": "dir",
+        "mode": 16872,
+        "mtime": 1621265786.001137,
+        "ino": 61,
+        "uid": 501,
+        "gid": 20,
+        "size": 96
+    },
+    {
+        "fname": "file11",
+        "dname": "dir/dir1",
+        "mode": 33188,
+        "mtime": 1621265786.001228,
+        "ino": 62,
+        "uid": 501,
+        "gid": 20,
+        "size": 6
+    }
+]
