@@ -15,3 +15,6 @@ $ python3 opg2b.py --scan scan2.json dir
 $ python3 opg2b.py --show scan2.json
 
 $ python3 opg2b.py --cmp scan1.json scan2.json
+
+
+https://erik.ellsinger.me/automatically-download-youtube-videos-to-plex-on-truenas-using-youtube-dl/
